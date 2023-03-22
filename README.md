@@ -1,38 +1,41 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Jeniffer Cakes - A Client Website
 
-## Getting Started
+Jeniffer Cakes is a website made for a client. The main goal of this website is to to display her work and make it easier for a client to order a cake. On the website the user can have excess to her work and create the order without a need for endeless conversations via website. All the necessary information is together in one place.
 
-First, run the development server:
+<img src="public/screenshots/jeniffercakes-mobile-overview.png" width=100% alt="mobile overview of Jeniffer Cakes home page">
+<img src="public/screenshots/cardapio-screenshot.png" width=100% alt="desktop version of cardapio page first part">
+<img src="public/screenshots/cardapio-screenshot-2.png" width=100% alt="desktop version of cardapio page second part">
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+### Check out JenifferCakes [here](https://jeniffercakes.com.br/)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Development Process
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+- Meetings with the client to understand her businees, services offered and already existing clients;
+- Brainstorming the key concepts to compose the storytelling;
+- Creating low fidelity design for client approval;
+- Choose bran colors and design the logo;
+- Content creation;
+- Criation  of high fidelity web design on Figma;
+- Implementation of the frontend website using NextJS from a mobile-first perspective;
+- Testing and feedback;
+- Deploy.
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+## Built with
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+- Semantic HTML5 markup;
+- Tailwindcss framework;
+- NextJS;
+- Mobile-first workflow.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## Technologies and Tools
 
-## Learn More
+- [NextJS - JS library](https://nextjs.org)
+- [Tailwindcss](http://tailwindcss.com)
 
-To learn more about Next.js, take a look at the following resources:
+## Useful resources
+- [Next.js vs React: The Difference and Which Framework to Choose](https://ninetailed.io/blog/next-js-vs-react/): This article gives an overview about two frameworks: React and Next. It also gives as a comparison between. We recommend the reading for anyone who isn't sure which of those two frameworks to work on a project.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Acknowledgments
+This is website is made by two developers as a team.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+### Made with :heart: by [Eduardo Arakaki] (https://www.linkedin.com/in/eduardo-arakaki/) and [Caroline Almeida Nikolic] (https://www.linkedin.com/in/carolinealmeidanikolic/)
